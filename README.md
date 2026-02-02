@@ -10,6 +10,7 @@
 | [0283-move-zeroes](https://github.com/Anusha-0913/leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Anusha-0913/leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Anusha-0913/leetcode/tree/master/0735-asteroid-collision) |
+| [0946-validate-stack-sequences](https://github.com/Anusha-0913/leetcode/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anusha-0913/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Anusha-0913/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Anusha-0913/leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -84,6 +85,7 @@
 | [0020-valid-parentheses](https://github.com/Anusha-0913/leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Anusha-0913/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/Anusha-0913/leetcode/tree/master/0735-asteroid-collision) |
+| [0946-validate-stack-sequences](https://github.com/Anusha-0913/leetcode/tree/master/0946-validate-stack-sequences) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Anusha-0913/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Recursion
 |  |
@@ -106,4 +108,5 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Anusha-0913/leetcode/tree/master/0735-asteroid-collision) |
+| [0946-validate-stack-sequences](https://github.com/Anusha-0913/leetcode/tree/master/0946-validate-stack-sequences) |
 <!---LeetCode Topics End-->
