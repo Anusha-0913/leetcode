@@ -6,6 +6,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Anusha-0913/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anusha-0913/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/Anusha-0913/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Anusha-0913/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Anusha-0913/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Anusha-0913/leetcode/tree/master/0283-move-zeroes) |
@@ -31,12 +32,14 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Anusha-0913/leetcode/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Anusha-0913/leetcode/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anusha-0913/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2418-sort-the-people](https://github.com/Anusha-0913/leetcode/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Anusha-0913/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0217-contains-duplicate](https://github.com/Anusha-0913/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Anusha-0913/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anusha-0913/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2418-sort-the-people](https://github.com/Anusha-0913/leetcode/tree/master/2418-sort-the-people) |
