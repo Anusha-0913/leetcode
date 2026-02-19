@@ -30,6 +30,7 @@
 | [0234-palindrome-linked-list](https://github.com/Anusha-0913/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Anusha-0913/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Anusha-0913/leetcode/tree/master/0344-reverse-string) |
+| [0696-count-binary-substrings](https://github.com/Anusha-0913/leetcode/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/Anusha-0913/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anusha-0913/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -83,6 +84,7 @@
 | [0257-binary-tree-paths](https://github.com/Anusha-0913/leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Anusha-0913/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anusha-0913/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0696-count-binary-substrings](https://github.com/Anusha-0913/leetcode/tree/master/0696-count-binary-substrings) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Anusha-0913/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Anusha-0913/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2418-sort-the-people](https://github.com/Anusha-0913/leetcode/tree/master/2418-sort-the-people) |
