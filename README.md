@@ -17,6 +17,7 @@
 | [0735-asteroid-collision](https://github.com/Anusha-0913/leetcode/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Anusha-0913/leetcode/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anusha-0913/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0997-find-the-town-judge](https://github.com/Anusha-0913/leetcode/tree/master/0997-find-the-town-judge) |
 | [1314-matrix-block-sum](https://github.com/Anusha-0913/leetcode/tree/master/1314-matrix-block-sum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Anusha-0913/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1480-running-sum-of-1d-array](https://github.com/Anusha-0913/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -53,6 +54,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Anusha-0913/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anusha-0913/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Anusha-0913/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0997-find-the-town-judge](https://github.com/Anusha-0913/leetcode/tree/master/0997-find-the-town-judge) |
 | [2418-sort-the-people](https://github.com/Anusha-0913/leetcode/tree/master/2418-sort-the-people) |
 ## Sliding Window
 |  |
@@ -257,5 +259,6 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/Anusha-0913/leetcode/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Anusha-0913/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
