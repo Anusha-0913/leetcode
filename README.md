@@ -17,6 +17,7 @@
 | [0542-01-matrix](https://github.com/Anusha-0913/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Anusha-0913/leetcode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Anusha-0913/leetcode/tree/master/0704-binary-search) |
+| [0721-accounts-merge](https://github.com/Anusha-0913/leetcode/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/Anusha-0913/leetcode/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Anusha-0913/leetcode/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anusha-0913/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -45,6 +46,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Anusha-0913/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Anusha-0913/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Anusha-0913/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0721-accounts-merge](https://github.com/Anusha-0913/leetcode/tree/master/0721-accounts-merge) |
 | [0761-special-binary-string](https://github.com/Anusha-0913/leetcode/tree/master/0761-special-binary-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anusha-0913/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Anusha-0913/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -57,6 +59,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Anusha-0913/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Anusha-0913/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anusha-0913/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0721-accounts-merge](https://github.com/Anusha-0913/leetcode/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Anusha-0913/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/Anusha-0913/leetcode/tree/master/0997-find-the-town-judge) |
 | [2418-sort-the-people](https://github.com/Anusha-0913/leetcode/tree/master/2418-sort-the-people) |
@@ -93,6 +96,7 @@
 | [0344-reverse-string](https://github.com/Anusha-0913/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anusha-0913/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0696-count-binary-substrings](https://github.com/Anusha-0913/leetcode/tree/master/0696-count-binary-substrings) |
+| [0721-accounts-merge](https://github.com/Anusha-0913/leetcode/tree/master/0721-accounts-merge) |
 | [0761-special-binary-string](https://github.com/Anusha-0913/leetcode/tree/master/0761-special-binary-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Anusha-0913/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Anusha-0913/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -204,6 +208,7 @@
 | [0542-01-matrix](https://github.com/Anusha-0913/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Anusha-0913/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Anusha-0913/leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Anusha-0913/leetcode/tree/master/0721-accounts-merge) |
 | [0841-keys-and-rooms](https://github.com/Anusha-0913/leetcode/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Anusha-0913/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Anusha-0913/leetcode/tree/master/0994-rotting-oranges) |
@@ -247,6 +252,7 @@
 | [0257-binary-tree-paths](https://github.com/Anusha-0913/leetcode/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/Anusha-0913/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Anusha-0913/leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Anusha-0913/leetcode/tree/master/0721-accounts-merge) |
 | [0841-keys-and-rooms](https://github.com/Anusha-0913/leetcode/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Anusha-0913/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Anusha-0913/leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
@@ -284,6 +290,7 @@
 | [0200-number-of-islands](https://github.com/Anusha-0913/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Anusha-0913/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Anusha-0913/leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Anusha-0913/leetcode/tree/master/0721-accounts-merge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Anusha-0913/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
