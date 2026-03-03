@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Anusha-0913/leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Anusha-0913/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Anusha-0913/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anusha-0913/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/Anusha-0913/leetcode/tree/master/0200-number-of-islands) |
@@ -94,6 +95,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Anusha-0913/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anusha-0913/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0542-01-matrix](https://github.com/Anusha-0913/leetcode/tree/master/0542-01-matrix) |
 ## String
@@ -153,6 +155,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Anusha-0913/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Anusha-0913/leetcode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anusha-0913/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Anusha-0913/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0761-special-binary-string](https://github.com/Anusha-0913/leetcode/tree/master/0761-special-binary-string) |
