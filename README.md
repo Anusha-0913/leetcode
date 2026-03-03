@@ -103,6 +103,7 @@
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Anusha-0913/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Anusha-0913/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Anusha-0913/leetcode/tree/master/0049-group-anagrams) |
 | [0257-binary-tree-paths](https://github.com/Anusha-0913/leetcode/tree/master/0257-binary-tree-paths) |
