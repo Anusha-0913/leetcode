@@ -29,6 +29,7 @@
 | [0994-rotting-oranges](https://github.com/Anusha-0913/leetcode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Anusha-0913/leetcode/tree/master/0997-find-the-town-judge) |
 | [1314-matrix-block-sum](https://github.com/Anusha-0913/leetcode/tree/master/1314-matrix-block-sum) |
+| [1408-string-matching-in-an-array](https://github.com/Anusha-0913/leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Anusha-0913/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1480-running-sum-of-1d-array](https://github.com/Anusha-0913/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Anusha-0913/leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -120,6 +121,7 @@
 | [0890-find-and-replace-pattern](https://github.com/Anusha-0913/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0929-unique-email-addresses](https://github.com/Anusha-0913/leetcode/tree/master/0929-unique-email-addresses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Anusha-0913/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1408-string-matching-in-an-array](https://github.com/Anusha-0913/leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Anusha-0913/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2418-sort-the-people](https://github.com/Anusha-0913/leetcode/tree/master/2418-sort-the-people) |
 ## Queue
@@ -334,4 +336,8 @@
 | [0207-course-schedule](https://github.com/Anusha-0913/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Anusha-0913/leetcode/tree/master/0210-course-schedule-ii) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Anusha-0913/leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+## String Matching
+|  |
+| ------- |
+| [1408-string-matching-in-an-array](https://github.com/Anusha-0913/leetcode/tree/master/1408-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
