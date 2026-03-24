@@ -81,6 +81,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Anusha-0913/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/Anusha-0913/leetcode/tree/master/0997-find-the-town-judge) |
 | [1396-design-underground-system](https://github.com/Anusha-0913/leetcode/tree/master/1396-design-underground-system) |
+| [1600-throne-inheritance](https://github.com/Anusha-0913/leetcode/tree/master/1600-throne-inheritance) |
 | [2418-sort-the-people](https://github.com/Anusha-0913/leetcode/tree/master/2418-sort-the-people) |
 ## Sliding Window
 |  |
@@ -211,6 +212,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Anusha-0913/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0705-design-hashset](https://github.com/Anusha-0913/leetcode/tree/master/0705-design-hashset) |
 | [1396-design-underground-system](https://github.com/Anusha-0913/leetcode/tree/master/1396-design-underground-system) |
+| [1600-throne-inheritance](https://github.com/Anusha-0913/leetcode/tree/master/1600-throne-inheritance) |
 | [1603-design-parking-system](https://github.com/Anusha-0913/leetcode/tree/master/1603-design-parking-system) |
 ## Monotonic Queue
 |  |
@@ -239,6 +241,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anusha-0913/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Anusha-0913/leetcode/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Anusha-0913/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1600-throne-inheritance](https://github.com/Anusha-0913/leetcode/tree/master/1600-throne-inheritance) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -301,6 +304,7 @@
 | [0841-keys-and-rooms](https://github.com/Anusha-0913/leetcode/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Anusha-0913/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Anusha-0913/leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1600-throne-inheritance](https://github.com/Anusha-0913/leetcode/tree/master/1600-throne-inheritance) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Anusha-0913/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
