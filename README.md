@@ -145,6 +145,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Anusha-0913/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anusha-0913/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1603-design-parking-system](https://github.com/Anusha-0913/leetcode/tree/master/1603-design-parking-system) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Anusha-0913/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Linked List
 |  |
@@ -198,10 +199,12 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/Anusha-0913/leetcode/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Anusha-0913/leetcode/tree/master/0946-validate-stack-sequences) |
+| [1603-design-parking-system](https://github.com/Anusha-0913/leetcode/tree/master/1603-design-parking-system) |
 ## Design
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Anusha-0913/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [1603-design-parking-system](https://github.com/Anusha-0913/leetcode/tree/master/1603-design-parking-system) |
 ## Monotonic Queue
 |  |
 | ------- |
