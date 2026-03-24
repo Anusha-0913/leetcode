@@ -2,7 +2,6 @@ import java.util.*;
 
 class UndergroundSystem {
 
-    // Store check-in info
     class CheckInData {
         String station;
         int time;
@@ -13,7 +12,6 @@ class UndergroundSystem {
         }
     }
 
-    // Store travel statistics
     class TravelData {
         double totalTime;
         int count;
@@ -59,7 +57,6 @@ class UndergroundSystem {
         return travel.totalTime / travel.count;
     }
 
-    // Optional main method to test
     public static void main(String[] args) {
         UndergroundSystem undergroundSystem = new UndergroundSystem();
 
