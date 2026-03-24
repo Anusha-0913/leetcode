@@ -78,6 +78,7 @@
 | [0929-unique-email-addresses](https://github.com/Anusha-0913/leetcode/tree/master/0929-unique-email-addresses) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Anusha-0913/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/Anusha-0913/leetcode/tree/master/0997-find-the-town-judge) |
+| [1396-design-underground-system](https://github.com/Anusha-0913/leetcode/tree/master/1396-design-underground-system) |
 | [2418-sort-the-people](https://github.com/Anusha-0913/leetcode/tree/master/2418-sort-the-people) |
 ## Sliding Window
 |  |
@@ -129,6 +130,7 @@
 | [0890-find-and-replace-pattern](https://github.com/Anusha-0913/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0929-unique-email-addresses](https://github.com/Anusha-0913/leetcode/tree/master/0929-unique-email-addresses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Anusha-0913/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1396-design-underground-system](https://github.com/Anusha-0913/leetcode/tree/master/1396-design-underground-system) |
 | [1408-string-matching-in-an-array](https://github.com/Anusha-0913/leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Anusha-0913/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2418-sort-the-people](https://github.com/Anusha-0913/leetcode/tree/master/2418-sort-the-people) |
@@ -204,6 +206,7 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Anusha-0913/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [1396-design-underground-system](https://github.com/Anusha-0913/leetcode/tree/master/1396-design-underground-system) |
 | [1603-design-parking-system](https://github.com/Anusha-0913/leetcode/tree/master/1603-design-parking-system) |
 ## Monotonic Queue
 |  |
