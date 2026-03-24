@@ -19,6 +19,7 @@
 | [0542-01-matrix](https://github.com/Anusha-0913/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Anusha-0913/leetcode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Anusha-0913/leetcode/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/Anusha-0913/leetcode/tree/master/0705-design-hashset) |
 | [0721-accounts-merge](https://github.com/Anusha-0913/leetcode/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/Anusha-0913/leetcode/tree/master/0735-asteroid-collision) |
 | [0890-find-and-replace-pattern](https://github.com/Anusha-0913/leetcode/tree/master/0890-find-and-replace-pattern) |
@@ -73,6 +74,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Anusha-0913/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anusha-0913/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anusha-0913/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0705-design-hashset](https://github.com/Anusha-0913/leetcode/tree/master/0705-design-hashset) |
 | [0721-accounts-merge](https://github.com/Anusha-0913/leetcode/tree/master/0721-accounts-merge) |
 | [0890-find-and-replace-pattern](https://github.com/Anusha-0913/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0929-unique-email-addresses](https://github.com/Anusha-0913/leetcode/tree/master/0929-unique-email-addresses) |
@@ -156,6 +158,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Anusha-0913/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/Anusha-0913/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Anusha-0913/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0705-design-hashset](https://github.com/Anusha-0913/leetcode/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/Anusha-0913/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
@@ -206,6 +209,7 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Anusha-0913/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0705-design-hashset](https://github.com/Anusha-0913/leetcode/tree/master/0705-design-hashset) |
 | [1396-design-underground-system](https://github.com/Anusha-0913/leetcode/tree/master/1396-design-underground-system) |
 | [1603-design-parking-system](https://github.com/Anusha-0913/leetcode/tree/master/1603-design-parking-system) |
 ## Monotonic Queue
@@ -355,4 +359,8 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anusha-0913/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1408-string-matching-in-an-array](https://github.com/Anusha-0913/leetcode/tree/master/1408-string-matching-in-an-array) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Anusha-0913/leetcode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
