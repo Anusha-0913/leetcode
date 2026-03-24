@@ -13,7 +13,7 @@ class Solution {
             }
 
             if (j == n) {
-                return i; // match found
+                return i; 
             }
         }
 
