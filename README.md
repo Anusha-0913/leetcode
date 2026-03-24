@@ -70,6 +70,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Anusha-0913/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Anusha-0913/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anusha-0913/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Anusha-0913/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0721-accounts-merge](https://github.com/Anusha-0913/leetcode/tree/master/0721-accounts-merge) |
 | [0890-find-and-replace-pattern](https://github.com/Anusha-0913/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0929-unique-email-addresses](https://github.com/Anusha-0913/leetcode/tree/master/0929-unique-email-addresses) |
@@ -82,6 +83,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anusha-0913/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Anusha-0913/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Anusha-0913/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Anusha-0913/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Anusha-0913/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Prefix Sum
 |  |
@@ -115,6 +117,7 @@
 | [0257-binary-tree-paths](https://github.com/Anusha-0913/leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Anusha-0913/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anusha-0913/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Anusha-0913/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0696-count-binary-substrings](https://github.com/Anusha-0913/leetcode/tree/master/0696-count-binary-substrings) |
 | [0721-accounts-merge](https://github.com/Anusha-0913/leetcode/tree/master/0721-accounts-merge) |
 | [0761-special-binary-string](https://github.com/Anusha-0913/leetcode/tree/master/0761-special-binary-string) |
