@@ -162,6 +162,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Anusha-0913/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Anusha-0913/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/Anusha-0913/leetcode/tree/master/0705-design-hashset) |
+| [0707-design-linked-list](https://github.com/Anusha-0913/leetcode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Anusha-0913/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
@@ -213,6 +214,7 @@
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Anusha-0913/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0705-design-hashset](https://github.com/Anusha-0913/leetcode/tree/master/0705-design-hashset) |
+| [0707-design-linked-list](https://github.com/Anusha-0913/leetcode/tree/master/0707-design-linked-list) |
 | [1396-design-underground-system](https://github.com/Anusha-0913/leetcode/tree/master/1396-design-underground-system) |
 | [1600-throne-inheritance](https://github.com/Anusha-0913/leetcode/tree/master/1600-throne-inheritance) |
 | [1603-design-parking-system](https://github.com/Anusha-0913/leetcode/tree/master/1603-design-parking-system) |
