@@ -24,6 +24,7 @@
 | [0705-design-hashset](https://github.com/Anusha-0913/leetcode/tree/master/0705-design-hashset) |
 | [0721-accounts-merge](https://github.com/Anusha-0913/leetcode/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/Anusha-0913/leetcode/tree/master/0735-asteroid-collision) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Anusha-0913/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0890-find-and-replace-pattern](https://github.com/Anusha-0913/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Anusha-0913/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0929-unique-email-addresses](https://github.com/Anusha-0913/leetcode/tree/master/0929-unique-email-addresses) |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Anusha-0913/leetcode/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Anusha-0913/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
