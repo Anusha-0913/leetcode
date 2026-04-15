@@ -2,31 +2,22 @@ import java.util.*;
 
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
-        Map<String, List<String>> map = new HashMap<>();
+        HashMap<String, List<String>> map = new HashMap<>();
         
-        for (String s : strs) {
-            char[] chars = s.toCharArray();
+        for (String str : strs) {
+            // Convert string to char array and sort
+            char[] chars = str.toCharArray();
             Arrays.sort(chars);
+            
             String key = new String(chars);
             
-            map.computeIfAbsent(key, k -> new ArrayList<>()).add(s);
+            // Add to map
+            if (!map.containsKey(key)) {
+                map.put(key, new ArrayList<>());
+            }
+            map.get(key).add(str);
         }
         
         return new ArrayList<>(map.values());
-    }
-
-    public static void main(String[] args) {
-        Solution sol = new Solution();
-        
-        String[] strs1 = {"eat","tea","tan","ate","nat","bat"};
-        System.out.println(sol.groupAnagrams(strs1));
-
-        String[] strs2 = {""};
-        System.out.println(sol.groupAnagrams(strs2));
-        
-
-        String[] strs3 = {"a"};
-        System.out.println(sol.groupAnagrams(strs3));
-        
     }
 }
