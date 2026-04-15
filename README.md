@@ -16,6 +16,7 @@
 | [0239-sliding-window-maximum](https://github.com/Anusha-0913/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Anusha-0913/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Anusha-0913/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Anusha-0913/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Anusha-0913/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anusha-0913/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0542-01-matrix](https://github.com/Anusha-0913/leetcode/tree/master/0542-01-matrix) |
@@ -50,6 +51,7 @@
 | [0234-palindrome-linked-list](https://github.com/Anusha-0913/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Anusha-0913/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Anusha-0913/leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Anusha-0913/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0696-count-binary-substrings](https://github.com/Anusha-0913/leetcode/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/Anusha-0913/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anusha-0913/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -62,6 +64,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Anusha-0913/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Anusha-0913/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Anusha-0913/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Anusha-0913/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0721-accounts-merge](https://github.com/Anusha-0913/leetcode/tree/master/0721-accounts-merge) |
 | [0761-special-binary-string](https://github.com/Anusha-0913/leetcode/tree/master/0761-special-binary-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anusha-0913/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -77,6 +80,7 @@
 | [0217-contains-duplicate](https://github.com/Anusha-0913/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Anusha-0913/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Anusha-0913/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Anusha-0913/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anusha-0913/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anusha-0913/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anusha-0913/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -111,6 +115,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Anusha-0913/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Anusha-0913/leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Anusha-0913/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Dynamic Programming
