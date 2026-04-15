@@ -80,6 +80,7 @@
 | [0202-happy-number](https://github.com/Anusha-0913/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Anusha-0913/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Anusha-0913/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0290-word-pattern](https://github.com/Anusha-0913/leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Anusha-0913/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Anusha-0913/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anusha-0913/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -138,6 +139,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anusha-0913/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Anusha-0913/leetcode/tree/master/0049-group-anagrams) |
 | [0257-binary-tree-paths](https://github.com/Anusha-0913/leetcode/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/Anusha-0913/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Anusha-0913/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anusha-0913/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anusha-0913/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
