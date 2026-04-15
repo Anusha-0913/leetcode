@@ -20,6 +20,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Anusha-0913/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anusha-0913/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0542-01-matrix](https://github.com/Anusha-0913/leetcode/tree/master/0542-01-matrix) |
+| [0690-employee-importance](https://github.com/Anusha-0913/leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Anusha-0913/leetcode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Anusha-0913/leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Anusha-0913/leetcode/tree/master/0705-design-hashset) |
@@ -86,6 +87,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Anusha-0913/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anusha-0913/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anusha-0913/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0690-employee-importance](https://github.com/Anusha-0913/leetcode/tree/master/0690-employee-importance) |
 | [0705-design-hashset](https://github.com/Anusha-0913/leetcode/tree/master/0705-design-hashset) |
 | [0721-accounts-merge](https://github.com/Anusha-0913/leetcode/tree/master/0721-accounts-merge) |
 | [0890-find-and-replace-pattern](https://github.com/Anusha-0913/leetcode/tree/master/0890-find-and-replace-pattern) |
@@ -261,6 +263,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anusha-0913/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anusha-0913/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Anusha-0913/leetcode/tree/master/0257-binary-tree-paths) |
+| [0690-employee-importance](https://github.com/Anusha-0913/leetcode/tree/master/0690-employee-importance) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Anusha-0913/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1600-throne-inheritance](https://github.com/Anusha-0913/leetcode/tree/master/1600-throne-inheritance) |
 ## Breadth-First Search
@@ -276,6 +279,7 @@
 | [0210-course-schedule-ii](https://github.com/Anusha-0913/leetcode/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/Anusha-0913/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Anusha-0913/leetcode/tree/master/0547-number-of-provinces) |
+| [0690-employee-importance](https://github.com/Anusha-0913/leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Anusha-0913/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Anusha-0913/leetcode/tree/master/0721-accounts-merge) |
 | [0841-keys-and-rooms](https://github.com/Anusha-0913/leetcode/tree/master/0841-keys-and-rooms) |
@@ -320,6 +324,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anusha-0913/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Anusha-0913/leetcode/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/Anusha-0913/leetcode/tree/master/0547-number-of-provinces) |
+| [0690-employee-importance](https://github.com/Anusha-0913/leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Anusha-0913/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Anusha-0913/leetcode/tree/master/0721-accounts-merge) |
 | [0841-keys-and-rooms](https://github.com/Anusha-0913/leetcode/tree/master/0841-keys-and-rooms) |
