@@ -22,6 +22,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Anusha-0913/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Anusha-0913/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anusha-0913/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Anusha-0913/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0474-ones-and-zeroes](https://github.com/Anusha-0913/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/Anusha-0913/leetcode/tree/master/0542-01-matrix) |
 | [0690-employee-importance](https://github.com/Anusha-0913/leetcode/tree/master/0690-employee-importance) |
@@ -73,6 +74,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Anusha-0913/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Anusha-0913/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Anusha-0913/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Anusha-0913/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0721-accounts-merge](https://github.com/Anusha-0913/leetcode/tree/master/0721-accounts-merge) |
 | [0761-special-binary-string](https://github.com/Anusha-0913/leetcode/tree/master/0761-special-binary-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anusha-0913/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -444,4 +446,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Anusha-0913/leetcode/tree/master/0062-unique-paths) |
+## Greedy
+|  |
+| ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Anusha-0913/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 <!---LeetCode Topics End-->
