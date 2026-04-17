@@ -99,6 +99,7 @@
 | [1002-find-common-characters](https://github.com/Anusha-0913/leetcode/tree/master/1002-find-common-characters) |
 | [1396-design-underground-system](https://github.com/Anusha-0913/leetcode/tree/master/1396-design-underground-system) |
 | [1600-throne-inheritance](https://github.com/Anusha-0913/leetcode/tree/master/1600-throne-inheritance) |
+| [1763-longest-nice-substring](https://github.com/Anusha-0913/leetcode/tree/master/1763-longest-nice-substring) |
 | [2418-sort-the-people](https://github.com/Anusha-0913/leetcode/tree/master/2418-sort-the-people) |
 ## Sliding Window
 |  |
@@ -108,6 +109,7 @@
 | [0239-sliding-window-maximum](https://github.com/Anusha-0913/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anusha-0913/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Anusha-0913/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1763-longest-nice-substring](https://github.com/Anusha-0913/leetcode/tree/master/1763-longest-nice-substring) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -158,6 +160,7 @@
 | [1396-design-underground-system](https://github.com/Anusha-0913/leetcode/tree/master/1396-design-underground-system) |
 | [1408-string-matching-in-an-array](https://github.com/Anusha-0913/leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Anusha-0913/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1763-longest-nice-substring](https://github.com/Anusha-0913/leetcode/tree/master/1763-longest-nice-substring) |
 | [2418-sort-the-people](https://github.com/Anusha-0913/leetcode/tree/master/2418-sort-the-people) |
 ## Queue
 |  |
@@ -213,6 +216,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Anusha-0913/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0761-special-binary-string](https://github.com/Anusha-0913/leetcode/tree/master/0761-special-binary-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Anusha-0913/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1763-longest-nice-substring](https://github.com/Anusha-0913/leetcode/tree/master/1763-longest-nice-substring) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -404,4 +408,5 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Anusha-0913/leetcode/tree/master/0190-reverse-bits) |
+| [1763-longest-nice-substring](https://github.com/Anusha-0913/leetcode/tree/master/1763-longest-nice-substring) |
 <!---LeetCode Topics End-->
