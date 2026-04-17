@@ -208,6 +208,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Anusha-0913/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Anusha-0913/leetcode/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/Anusha-0913/leetcode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anusha-0913/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Anusha-0913/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0761-special-binary-string](https://github.com/Anusha-0913/leetcode/tree/master/0761-special-binary-string) |
@@ -399,4 +400,8 @@
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Anusha-0913/leetcode/tree/master/0705-design-hashset) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Anusha-0913/leetcode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
