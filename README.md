@@ -29,6 +29,7 @@
 | [0721-accounts-merge](https://github.com/Anusha-0913/leetcode/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/Anusha-0913/leetcode/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Anusha-0913/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/Anusha-0913/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0890-find-and-replace-pattern](https://github.com/Anusha-0913/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Anusha-0913/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0929-unique-email-addresses](https://github.com/Anusha-0913/leetcode/tree/master/0929-unique-email-addresses) |
@@ -140,6 +141,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anusha-0913/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Anusha-0913/leetcode/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/Anusha-0913/leetcode/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/Anusha-0913/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Anusha-0913/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## String
 |  |
