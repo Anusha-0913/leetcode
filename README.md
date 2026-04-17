@@ -122,6 +122,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Anusha-0913/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Anusha-0913/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Anusha-0913/leetcode/tree/master/0202-happy-number) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Anusha-0913/leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -137,6 +138,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anusha-0913/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Anusha-0913/leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Anusha-0913/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Anusha-0913/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anusha-0913/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Anusha-0913/leetcode/tree/master/0198-house-robber) |
@@ -432,4 +434,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Anusha-0913/leetcode/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Anusha-0913/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
