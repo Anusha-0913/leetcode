@@ -120,6 +120,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Anusha-0913/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Anusha-0913/leetcode/tree/master/0202-happy-number) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Anusha-0913/leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Binary Search
@@ -134,6 +135,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anusha-0913/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Anusha-0913/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Anusha-0913/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anusha-0913/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0542-01-matrix](https://github.com/Anusha-0913/leetcode/tree/master/0542-01-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Anusha-0913/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -422,4 +424,8 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Anusha-0913/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Anusha-0913/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
