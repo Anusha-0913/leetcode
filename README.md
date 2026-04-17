@@ -21,6 +21,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Anusha-0913/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Anusha-0913/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anusha-0913/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0474-ones-and-zeroes](https://github.com/Anusha-0913/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/Anusha-0913/leetcode/tree/master/0542-01-matrix) |
 | [0690-employee-importance](https://github.com/Anusha-0913/leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Anusha-0913/leetcode/tree/master/0695-max-area-of-island) |
@@ -142,6 +143,7 @@
 | [0070-climbing-stairs](https://github.com/Anusha-0913/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anusha-0913/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Anusha-0913/leetcode/tree/master/0198-house-robber) |
+| [0474-ones-and-zeroes](https://github.com/Anusha-0913/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/Anusha-0913/leetcode/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/Anusha-0913/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Anusha-0913/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -160,6 +162,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Anusha-0913/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anusha-0913/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Anusha-0913/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0474-ones-and-zeroes](https://github.com/Anusha-0913/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0696-count-binary-substrings](https://github.com/Anusha-0913/leetcode/tree/master/0696-count-binary-substrings) |
 | [0721-accounts-merge](https://github.com/Anusha-0913/leetcode/tree/master/0721-accounts-merge) |
 | [0761-special-binary-string](https://github.com/Anusha-0913/leetcode/tree/master/0761-special-binary-string) |
